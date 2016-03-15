@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Módulo de Funciones para obtener datos de Apis Abiertas de gobierno"""
+"""Funciones para obtener datos de Apis Abiertas de gobierno
+http://www.inegi.org.mx/desarrolladores/
+"""
 
 import json
 import urllib2
